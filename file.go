@@ -25,6 +25,8 @@ func EmptyFolder(folder string) {
 	}
 }
 
+// Empties workFolder then copy over files (and files only) from remoteFolder.
+// Does NOT go into sub folders in remoteFolder
 func CopyToWorkFolder(remoteFolder string, workFolder string) []string {
 	var copiedFiles []string
 	EmptyFolder(workFolder)
