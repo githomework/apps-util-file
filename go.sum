@@ -1,0 +1,4 @@
+github.com/BurntSushi/toml v0.3.1 h1:WXkYYl6Yr3qBf1K79EBnL4mak0OimBfB0XUf9Vl28OQ=
+github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
+github.com/githomework/apps-app v0.0.0-20200906130939-b6ccb75e1a68 h1:wsL7HMa/LIvv62Tr5EWkq4L8AgYOh08I1c0LZLLVoQ0=
+github.com/githomework/apps-app v0.0.0-20200906130939-b6ccb75e1a68/go.mod h1:SBwJYQtf8x9lg33Uu3AnbML7G602URRMu+Snvt6l7IM=
