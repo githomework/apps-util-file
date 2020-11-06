@@ -62,3 +62,8 @@ func CopyToWorkFolder(remoteFolder string, workFolder string) []string {
 	return copiedFiles
 
 }
+
+func FileExists(path string) bool {
+	_, err := os.Stat(path)
+	return !os.IsNotExist(err)
+}
